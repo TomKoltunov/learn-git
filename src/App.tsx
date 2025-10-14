@@ -26,13 +26,20 @@ const App: React.FC = () => {
     return <p>🔄 טוען נתונים...</p>;
   }
 
-  console.log("Tom Koltunov");
+  console.log("3333");
+
+  console.log("2222");
+
+  console.log("0000");
 
   if (isError) {
     return <p>❌ שגיאה בטעינת הנתונים</p>;
   }
 
+<<<<<<< HEAD
   console.log("Hello! 3333 2222 1111 0000 5555");
+=======
+>>>>>>> 3b3e8e8 (first)
 
   // אם הכל תקין – מציגים את הנתונים
   return (
