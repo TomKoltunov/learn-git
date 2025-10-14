@@ -34,11 +34,11 @@ const App: React.FC = () => {
 
   console.log("Hello! 3333 2222 1111 0000 5555");
 
-  console.log("Tom");
+  console.log("Tom 3");
 
-  console.log("Koltunov");
+  console.log("Koltunov 3");
 
-  console.log("king");
+  console.log("king 3");
 
   // אם הכל תקין – מציגים את הנתוניםf
   return (
