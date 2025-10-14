@@ -30,7 +30,7 @@ const App: React.FC = () => {
     return <p>❌ שגיאה בטעינת הנתונים</p>;
   }
 
-  console.log("Hello World!");
+  console.log("Hello!");
 
   // אם הכל תקין – מציגים את הנתונים
   return (
