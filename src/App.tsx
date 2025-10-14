@@ -34,6 +34,12 @@ const App: React.FC = () => {
 
   console.log("Hello! 3333 2222 1111 0000 5555");
 
+  console.log("Tom");
+
+  console.log("Koltunov");
+
+  console.log("king");
+
   // אם הכל תקין – מציגים את הנתוניםf
   return (
     <div style={{ padding: '20px' }}>
