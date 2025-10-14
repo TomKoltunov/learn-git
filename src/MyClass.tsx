@@ -1,4 +1,5 @@
 const MyClass = () => {
+    console.log("Tommy");
     return (
         <>
         </>
