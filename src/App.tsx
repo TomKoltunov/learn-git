@@ -21,27 +21,20 @@ const App: React.FC = () => {
     },
   });
 
-  // טיפול במצבים שונים של הבקשה
+  // טיפולgit push - במצבים שונים של הבקשה
   if (isLoading) {
     return <p>🔄 טוען נתונים...</p>;
   }
 
   console.log("3333");
 
-  console.log("2222");
-
-  console.log("0000");
-
   if (isError) {
     return <p>❌ שגיאה בטעינת הנתונים</p>;
   }
 
-<<<<<<< HEAD
   console.log("Hello! 3333 2222 1111 0000 5555");
-=======
->>>>>>> 3b3e8e8 (first)
 
-  // אם הכל תקין – מציגים את הנתונים
+  // אם הכל תקין – מציגים את הנתוניםf
   return (
     <div style={{ padding: '20px' }}>
       <h1>👥 רשימת משתמשים</h1>
