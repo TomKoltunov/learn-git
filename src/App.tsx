@@ -26,12 +26,17 @@ const App: React.FC = () => {
     return <p>🔄 טוען נתונים...</p>;
   }
 
+  console.log("Tom Koltunov");
+
   if (isError) {
     return <p>❌ שגיאה בטעינת הנתונים</p>;
   }
 
+<<<<<<< HEAD
   console.log("Hello! 3333 2222 1111 0000");
 
+=======
+>>>>>>> feature
   // אם הכל תקין – מציגים את הנתונים
   return (
     <div style={{ padding: '20px' }}>
