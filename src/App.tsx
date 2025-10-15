@@ -40,6 +40,8 @@ const App: React.FC = () => {
 
   console.log("king 3");
 
+  console.log("HIIIIIIIIIIIIIIIIIIIIIIIIIIIII");
+
   // אם הכל תקין – מציגים את הנתוניםf
   return (
     <div style={{ padding: '20px' }}>
