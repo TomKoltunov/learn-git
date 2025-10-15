@@ -30,12 +30,6 @@ const App: React.FC = () => {
     return <p>❌ שגיאה בטעינת הנתונים</p>;
   }
 
-  console.log("Hello! 3333 2222 1111 0000 5555");
-
-  console.log("king 3");
-
-  console.log("HIIIIIIIIIIIIIIIIIIIIIIIIIIIII");
-
   // אם הכל תקין – מציגים את הנתוניםf
   return (
     <div style={{ padding: '20px' }}>
