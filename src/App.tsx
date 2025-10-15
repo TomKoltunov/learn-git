@@ -36,6 +36,10 @@ const App: React.FC = () => {
 
   console.log("HIIIIIIIIIIIIIIIIIIIIIIIIIIIII");
 
+  console.log("11111111111");
+
+  console.log("22222222222");
+
   // אם הכל תקין – מציגים את הנתוניםf
   return (
     <div style={{ padding: '20px' }}>
