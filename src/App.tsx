@@ -32,6 +32,12 @@ const App: React.FC = () => {
 
   console.log("Aleychem");
 
+  console.log("Aleychem");
+
+  console.log("Aleychem");
+
+  console.log("Aleychem");
+
   // אם הכל תקין – מציגים את הנתוניםf
   return (
     <div style={{ padding: '20px' }}>
